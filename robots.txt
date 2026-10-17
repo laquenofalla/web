@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://laquenofalla.pages.dev/sitemap.xml
